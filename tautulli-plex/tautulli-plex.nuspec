@@ -3,7 +3,7 @@
   <metadata>
     <id>tautulli-plex</id>
     <version>2.12.3</version>
-    <packageSourceUrl>https://github.com/pkibiego/chocolatey-packages/tree/master/tautulli</packageSourceUrl>
+    <packageSourceUrl>https://github.com/pkibiego/chocolatey-packages/tree/master/tautulli-plex</packageSourceUrl>
     <owners>bookachoco</owners>
     <title>Tautulli for Plex 2.12.3</title>
     <authors>JonnyWong16, WilliamComartin</authors>
